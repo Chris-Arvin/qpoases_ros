@@ -1,5 +1,5 @@
 # qpoases_ros
-A completement of qpoases_ros: 对qpoases(https://github.com/SemRoCo/qpOASES)这个c++下的二次优化的包的安装和使用进行详细说明。
+A completement of qpoases_ros: 对qpoases(https://github.com/SemRoCo/qpOASES) 这个c++下的二次优化的包的安装和使用进行详细说明。
 ## Installation
 把本git中的qpoases这个pkg直接下载下来，正常编译即可
 
